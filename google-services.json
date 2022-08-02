@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "974800682597",
+    "project_id": "carassist-4ad32",
+    "storage_bucket": "carassist-4ad32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974800682597:android:fe0ce137d323d1fde5108c",
+        "android_client_info": {
+          "package_name": "com.example.carassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974800682597-9st5tat82gsq48105b4kms6gj075rb47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carassist",
+            "certificate_hash": "ba3f0abae0b722aefae4f6e0e4f2ad177c049c0e"
+          }
+        },
+        {
+          "client_id": "974800682597-t0s2op7odrupkfv59d8rm1o57jouedp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bOLQFw6EJvxBJdHdRv-f-2YsXgudJm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974800682597-t0s2op7odrupkfv59d8rm1o57jouedp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

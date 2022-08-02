@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:exported="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.example.carassist.AboutActivity">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="500px"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Car Assistant Buyer is a utility that helps you to find the best suitable car for you."
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="500px"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="Created by Tom Barak and Yoad Cohen(2022)"
+        android:textSize="20sp" />
+</LinearLayout>
